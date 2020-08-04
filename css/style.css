@@ -19,7 +19,7 @@ ul{
 }
 #fullpage section:nth-child(1){
 	
-	background-image:url("/images/9257.jpg");
+	background-image:url("/images/earth.jpg");
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -214,10 +214,10 @@ button:active{
 	text-align: center;
 }
 .box-1{
-	background-image: url("/images/2.png");
+	background-image: url("/images/landscape.png");
 }
 .box-2{
-	background-image: url("/images/3.png");
+	background-image: url("/images/fantsy.png");
 }
 .box-3{
 	background-image: url("https://images.unsplash.com/photo-1470104240373-bc1812eddc9f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
